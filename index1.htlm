@@ -59,7 +59,9 @@ Gotta catch 'em all<br />
 Yeah</p>
 
 <h1>Name That Pokemon!</h1>
-<p>Electrode, Diglett, Nidoran, Mankey<br />
+
+<p>
+Electrode, Diglett, Nidoran, Mankey<br />
 Venusaur, Rattata, Fearow, Pidgey<br />
 Seaking, Jolteon, Dragonite, Gastly<br />
 Ponyta, Vaporeon, Poliwrath, Butterfree<br />
@@ -113,7 +115,7 @@ Omanyte, Slowpoke<br />
 Pidgeot, Arbok<br />
 That's all folks!
 </p>
-
+<a href="colttweeten.github.io/pokemon.jpg">picture</a>
 </body>
 
 </html>
