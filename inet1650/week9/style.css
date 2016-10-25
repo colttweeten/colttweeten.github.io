@@ -10,7 +10,7 @@ border: double 4px;}
 #pb{background-color: #c2f670;
 width: 200px;
 height: 200px;
-border: groove 0 8px 8px 0}
+border: 8px groove;}
 #pc{background-color: #c2f670;
 width: 200px;
 height: 200px;
